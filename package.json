@@ -2,7 +2,6 @@
   "name": "ai-app-generator-backend",
   "version": "1.0.0",
   "description": "Vercel serverless backend for AI app generator",
-  "type": "module",
   "scripts": {
     "dev": "vercel dev"
   },
