@@ -1,0 +1,16 @@
+{
+  "name": "ai-app-generator-backend",
+  "version": "1.0.0",
+  "description": "Vercel serverless backend for AI app generator",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "openai": "^4.28.0",
+    "@anthropic-ai/sdk": "^0.17.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
